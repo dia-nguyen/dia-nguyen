@@ -1,10 +1,9 @@
 <div align="center">
     <h1>Hello, I'm <a href="https://dianenguyen.ca" target="_blank">Diane</a> 🌸</h1>
-    <img alt="Developer Pic"
-        src="https://i.imgur.com/TUILFyA.png" width="250"/>
-    <br/><br/>
     I'm a <b>Full-Stack Developer</b>, <b>Creative Designer</b>, and <b>Lifelong Learner</b> based in <b>San Francisco</b>  🌁.<br />
     I'm on a mission to enhance the experiences of the things I love, so you can fall in love with them too! <br></p>
+    <a href="https://www.linkedin.com/in/dianenguyenca" target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
     <a href="https://dianenguyen.ca" target="blank"><img src="https://img.shields.io/badge/portfolio-%238A4182.svg?logo=heart&logoColor=white" alt="dianenguyen.ca" /></a> 
     <a href="https://instagram.com/kinoko.bun" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" /> </a> 
 </div>
